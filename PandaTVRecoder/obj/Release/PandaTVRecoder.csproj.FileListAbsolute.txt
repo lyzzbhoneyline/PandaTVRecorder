@@ -16,3 +16,9 @@ E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRec
 E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRecoder.MainForm.resources
 E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRecoder.csproj.GenerateResource.Cache
 E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\熊猫TV录制小工具1.0.exe
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe.config
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\obj\Release\PandaTVRecoder.csprojResolveAssemblyReference.cache
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\obj\Release\PandaTVRecoder.MainForm.resources
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\obj\Release\PandaTVRecoder.csproj.GenerateResource.Cache
+E:\git\PandaTVRecorder\PandaTVRecorder\PandaTVRecoder\obj\Release\熊猫TV录制小工具1.0.exe
