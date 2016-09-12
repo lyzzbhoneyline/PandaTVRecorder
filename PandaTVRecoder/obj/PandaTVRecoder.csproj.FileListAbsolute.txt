@@ -1,0 +1,8 @@
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Debug\PandaTVRecoder.MainForm.resources
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Debug\PandaTVRecoder.csproj.GenerateResource.Cache
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Debug\PandaTVRecoder.exe
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Debug\PandaTVRecoder.pdb
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\bin\Debug\PandaTVRecoder.exe.config
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\bin\Debug\PandaTVRecoder.exe
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\bin\Debug\PandaTVRecoder.pdb

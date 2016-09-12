@@ -1,0 +1,18 @@
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\bin\Release\PandaTVRecoder.exe.config
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\bin\Release\PandaTVRecoder.exe
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.MainForm.resources
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.csproj.GenerateResource.Cache
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.exe
+D:\Documents\SharpDevelop Projects\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.csprojResolveAssemblyReference.cache
+H:\PandaTVRecoder\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe.config
+H:\PandaTVRecoder\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe
+H:\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.csprojResolveAssemblyReference.cache
+H:\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.csproj.GenerateResource.Cache
+H:\PandaTVRecoder\PandaTVRecoder\obj\Release\熊猫TV录制小工具1.0.exe
+H:\PandaTVRecoder\PandaTVRecoder\obj\Release\PandaTVRecoder.MainForm.resources
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe.config
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\bin\Release\熊猫TV录制小工具1.0.exe
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRecoder.csprojResolveAssemblyReference.cache
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRecoder.MainForm.resources
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\PandaTVRecoder.csproj.GenerateResource.Cache
+E:\360驱动大师目录\PandaTVRecoder2.0\PandaTVRecoder\obj\Release\熊猫TV录制小工具1.0.exe
